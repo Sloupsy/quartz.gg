@@ -59,4 +59,4 @@ Contributions are welcome! If you find a bug or have a feature suggestion, pleas
 
 ### 📄 **License**
 
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+This project is licensed under the GNU Public License - see the `LICENSE` file for details.
