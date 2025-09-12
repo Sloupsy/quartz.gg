@@ -33,6 +33,8 @@ An advanced Tampermonkey script designed to autonomously solve math problems on 
 
 * A **Google Account**
 * A **Gemini API key**
+* A **Stable Connexion**
+* Obviously **the archive**
 * A modern web browser (like Chrome or Firefox)
 * The **Tampermonkey** browser extension
 * The **`quartz.gg` script**
